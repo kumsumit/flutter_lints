@@ -1,0 +1,26 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "flutter_lints",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/flutter_lints-1.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "lints",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/lints-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "example",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    }
+  ],
+  "generated": "2023-09-06T13:43:14.517715Z",
+  "generator": "pub",
+  "generatorVersion": "3.1.0"
+}
