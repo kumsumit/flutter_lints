@@ -3,7 +3,7 @@
   "packages": [
     {
       "name": "lints",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/lints-2.1.1",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/lints-3.0.0",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -14,7 +14,7 @@
       "languageVersion": "3.1"
     }
   ],
-  "generated": "2023-09-08T15:33:11.361552Z",
+  "generated": "2023-10-28T15:24:41.360307Z",
   "generator": "pub",
-  "generatorVersion": "3.1.0"
+  "generatorVersion": "3.1.5"
 }

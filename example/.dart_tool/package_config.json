@@ -3,24 +3,24 @@
   "packages": [
     {
       "name": "flutter_lints",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/flutter_lints-1.0.4",
+      "rootUri": "file:///home/sumit/.pub-cache/git/flutter_lints-839a835b4577b79bee3803328154b54bda02d646/",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.1"
     },
     {
       "name": "lints",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/lints-1.0.1",
+      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/lints-2.1.1",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.0"
     },
     {
       "name": "example",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.1"
     }
   ],
-  "generated": "2023-09-06T13:43:14.517715Z",
+  "generated": "2023-10-28T15:24:54.065637Z",
   "generator": "pub",
-  "generatorVersion": "3.1.0"
+  "generatorVersion": "3.1.5"
 }

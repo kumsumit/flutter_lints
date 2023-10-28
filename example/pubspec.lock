@@ -4,18 +4,19 @@ packages:
   flutter_lints:
     dependency: "direct dev"
     description:
-      name: flutter_lints
-      sha256: b543301ad291598523947dc534aaddc5aaad597b709d2426d3a0e0d44c5cb493
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.0.4"
+      path: "."
+      ref: HEAD
+      resolved-ref: "839a835b4577b79bee3803328154b54bda02d646"
+      url: "https://github.com/kumsumit/flutter_lints.git"
+    source: git
+    version: "2.0.3"
   lints:
     dependency: transitive
     description:
       name: lints
-      sha256: a2c3d198cb5ea2e179926622d433331d8b58374ab8f29cdda6e863bd62fd369c
+      sha256: "0a217c6c989d21039f1498c3ed9f3ed71b354e69873f13a8dfc3c9fe76f1b452"
       url: "https://pub.dev"
     source: hosted
-    version: "1.0.1"
+    version: "2.1.1"
 sdks:
-  dart: ">=2.19.0 <4.0.0"
+  dart: ">=3.1.0 <4.0.0"
